@@ -18,3 +18,8 @@ Mix and match the following:
 
 * cowthink (say?cowthink&msg=...)
 * -f cowfile (say?f=tux&msg=...)
+
+## Credits and Shit
+
+Based on the Spark demo by [kaiserleib](https://github.com/kaiserleib/hello-spark-sbt)
+Cowsay provided by [ricksbrown](https://github.com/ricksbrown/cowsay)
