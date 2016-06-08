@@ -2,6 +2,8 @@
 
 I wanted to write something simple in Spark, so why not Cowsay?
 
+![in action](https://raw.githubusercontent.com/elwaxoro/restful-cowsay/master/demo.png)
+
 ## Build & Run
 ```
 sbt clean compile run
